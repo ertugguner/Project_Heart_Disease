@@ -1,6 +1,3 @@
-# Project_Heart_Disease
-Heart Disease Classification
-
 #  Heart Disease Estimator: Project Overview
 - Creating an end-to-end Heart Disease Estimator using Machine Learning.
 - Given clinical parameters abaout a patient, can we predict whether or not thet have heart disease?
